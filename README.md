@@ -1,8 +1,6 @@
-# Evado Boilerplate App
+# Star App
 
-Lightweight and feature-rich template built on 
-[Evado Declarative Framework](https://github.com/mkhorin/evado) 
-for rapid building web applications.
+[description]
 
 ## Installation
 
